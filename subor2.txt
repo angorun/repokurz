@@ -1,1 +1,2 @@
-vyrieseny conflick
+vyrieseny conflict 
+a daco nove
