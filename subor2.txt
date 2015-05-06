@@ -1,1 +1,1 @@
-sades vo vetve new_branch
+sades vo vetve master
